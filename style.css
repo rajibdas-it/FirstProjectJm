@@ -33,3 +33,12 @@ h1 {
 section {
     height: 600px;
 }
+
+.link-btn {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    background-color: orange;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
