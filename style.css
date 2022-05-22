@@ -24,6 +24,7 @@ h1 {
 .half-width img {
     width: 100%;
     margin-top: 10px;
+    position: left;
 
 }
 
@@ -85,6 +86,15 @@ P {
     border-left: 5px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
+}
+
+.exp-half-width {
+    width: 38%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+
+
 }
 
 footer p {
